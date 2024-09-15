@@ -1,2 +1,2 @@
-# Logger-Module
+# Logger Module
 WIP module for logging
